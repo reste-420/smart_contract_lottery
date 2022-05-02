@@ -6,3 +6,5 @@ How to test this?
 1. mainnet-fork
 2. developmnet with mocks
 3. testnet
+
+can mess up bcs of fees 
